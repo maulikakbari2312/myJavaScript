@@ -49,7 +49,7 @@ let parts = filename.split('_');
 let number = parts[parts.length - 1];
 
 let isValid = true;
-let a= 123456
+let a= 123
  
 for (let i = 0; i < number.length; i++) {
   if (!Number.isNaN(parseInt(number[i]))) {
