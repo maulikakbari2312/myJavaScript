@@ -86,3 +86,5 @@ Object.keys(obj).forEach((key)=>{
 })
 
 console.log("=====", obj);
+
+// this is my array java script solution
