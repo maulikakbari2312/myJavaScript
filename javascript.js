@@ -63,7 +63,7 @@ for (let i = 0; i < number.length; i++) {
 }
 
 if (isValid) {
-  console.log("Valid number:", number);
+  console.log("Valid number is :", number);
 } else {
-  console.log("Invalid number:", number);
+  console.log("Invalid number is:", number);
 }
